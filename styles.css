@@ -141,7 +141,7 @@
 	padding: 10px;
 	text-align: left;
 	margin-left: 250px;
-	margin-right: 700px;
+	margin-right: 900px;
 	margin-top: 10px;
 	position: relative;
 }
@@ -240,17 +240,6 @@
 	margin-right: 50px;
 	margin-top: 50px;
 	position: relative;
-    /**
-    font-family: Lucida Handwriting;
-	font-size: 20px;
-	color: #f7fdf8;
-	padding: 10px;
-	float: right;
-	margin-right: 50px;
-	margin-top: 50px;
-    margin-left: 600px;
-	position: relative;
-    */
 }
 .btn_dark2 {
 	display: inline-block;
