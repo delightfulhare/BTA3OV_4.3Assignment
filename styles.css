@@ -274,5 +274,5 @@
     text-transform: uppercase;
 }
 .paragraph {
-    text-align: center;
+    align-items: center;
 }
