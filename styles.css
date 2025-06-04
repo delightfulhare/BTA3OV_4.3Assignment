@@ -38,7 +38,7 @@
 .wave {
 	background: #f7fdf8;
 	margin: 0 40px;
-	width: 1800px;
+	width: 1825px;
 	height: 25px;
 	position: relative;
 }
@@ -68,7 +68,7 @@
 .wavebottom {
 	background: #d694e1;
 	margin: 0 40px;
-	width: 1800px;
+	width: 1825px;
 	height: 25px;
 	position: relative;
 }
@@ -93,7 +93,7 @@
 	background-image: radial-gradient(circle at 10px 26px, white 20px, transparent 21px);
 }
 .bg {
-	width: 1800px;
+	width: 1825px;
 	height: 400px;
 	margin: 0 40px;
 	background-color: #d694e1;
@@ -135,7 +135,7 @@
 
 	/* Discover section */
 .discover {
-	width: 1800px;
+	width: 1825px;
 	height: 400px;
 	margin: 0 40px;
 	background-color: #f7fdf8;
@@ -185,7 +185,7 @@
 .wave2 {
 	background: #fff;
 	margin: 0 40px;
-	width: 1800px;
+	width: 1825px;
 	height: 25px;
 	position: relative;
 }
@@ -215,7 +215,7 @@
 .wavebottom2 {
 	background: #d46885;
 	margin: 0 40px;
-	width: 1800px;
+	width: 1825px;
 	height: 25px;
 	position: relative;
 }
@@ -240,7 +240,7 @@
 	background-image: radial-gradient(circle at 10px 26px, white 20px, transparent 21px);
 }
 .bg2 {
-	width: 1800px;
+	width: 1825px;
 	height: 400px;
 	margin: 0 40px;
 	background-color: #d46885;
