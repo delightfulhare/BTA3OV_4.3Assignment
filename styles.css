@@ -135,6 +135,7 @@
 	font-size: 25px;
 	color: #40c962;
 	padding: 10px;
+    float: right;
 }
 .btn_light {
 	display: inline-block;
