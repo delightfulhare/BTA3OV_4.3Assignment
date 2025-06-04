@@ -102,14 +102,7 @@
 	font-family: Lucida Handwriting;
 	font-size: 20px;
 	color: #fff;
-	padding: 10px;
-
-    /**
-	float: right;
-	margin-right: 50px;
-	margin-top: 50px;
-	position: relative;
-    */
+	padding: 20px;
 }
 .btn_dark {
 	display: inline-block;
@@ -142,14 +135,6 @@
 	font-size: 25px;
 	color: #40c962;
 	padding: 10px;
-	
-    /**
-    text-align: left;
-	margin-left: 250px;
-	margin-right: 900px;
-	margin-top: 10px;
-	position: relative;
-    */
 }
 .btn_light {
 	display: inline-block;
@@ -242,13 +227,6 @@
 	font-size: 20px;
 	color: #fff;
 	padding: 10px;
-	
-    /**float: right;
-	margin-right: 50px;
-	margin-top: 50px;
-    margin-left: 900px;
-	position: relative;
-    */
 }
 .btn_dark2 {
 	display: inline-block;
