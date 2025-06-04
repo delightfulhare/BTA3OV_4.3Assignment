@@ -38,7 +38,7 @@
 .wave {
 	background: #f7fdf8;
 	margin: 0 40px;
-	width: 1260px;
+	width: 1400px;
 	height: 25px;
 	position: relative;
 }
@@ -135,7 +135,7 @@
 
 	/* Discover section */
 .discover {
-	width: 1260px;
+	width: 1400px;
 	height: 400px;
 	margin: 0 40px;
 	background-color: #f7fdf8;
@@ -185,7 +185,7 @@
 .wave2 {
 	background: #fff;
 	margin: 0 40px;
-	width: 1260px;
+	width: 1400px;
 	height: 25px;
 	position: relative;
 }
